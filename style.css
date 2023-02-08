@@ -1,0 +1,33 @@
+html {
+  background-color: rgb(227, 255, 190);
+}
+.central {
+  text-align: center;
+}
+body {
+  background-color: rgba(174, 223, 185, 0.644);
+  width: 600px;
+  margin: 25px auto;
+  padding: 24px 42px;
+  border-radius: 49px;
+  color: rgb(71, 119, 64);
+}
+
+h1 {
+  color: rgb(0, 70, 0);
+  text-decoration: underline;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h2 {
+  color: rgb(103, 158, 92);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+a:hover {
+  color: rgb(255, 0, 255);
+}
+
+a {
+  color: rgb(71, 117, 79);
+}
